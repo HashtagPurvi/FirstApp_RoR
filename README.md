@@ -1,24 +1,15 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+* Making a basic ROR apps with CRUD operations.
+* Have used Scaffolding to generate the Post Model with Title Column to start with.
+* Used Rails Console to create, update and delete some records.
+* After that added a Migration, "AddBodyToPost", to create a Body column of text type.
+* Performed db:migration to migrate the column to DB.
+
+
 
 Things you may want to cover:
 
-* Ruby version
+* Ruby version : 2.2.4p230
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* ROR version : 5.0.0.1
